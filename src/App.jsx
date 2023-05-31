@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import ColorfulMessage from "./components/ColorfulMessage";
+import { ColorfulMessage } from "./components/ColorfulMessage";
+// import ColorfulMessage from "./components/ColorfulMessage";
 
 const App = () => {
   const { useEffect, useState } = React;
